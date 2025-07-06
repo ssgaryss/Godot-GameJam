@@ -1,0 +1,14 @@
+.vs/
+
+bin/
+bin-int/
+*.user
+
+# windows
+*.sln
+*.vcxproj
+
+# macOS
+.DS_Store
+*.xcworkspace
+*.xcodeproj
